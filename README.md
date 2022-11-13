@@ -1,27 +1,32 @@
-## Hello, I am Gabriel Cássio!
+### Hi, that is me!
+
+---
+
+##### I am Gabriel Cássio - Student of Electronics which have passion and engagement in the software/programming area.
 
 <div>
   <a href="mailto:gabriel.cgc.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-040061?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-c-3381a1211"><img src="https://img.shields.io/badge/LinkedIn-040061?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
 </div>
 
-### Learning these Languages and Artificies
+##### Learning these Languages and Artificies
     
 <div>
-  <div>
+  <div align="center">
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
-
-  <div>
+  <div align="center">
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
   </div>
 </div>
-  
+
+--- 
+    
 <div>
 <details><summary>More Information</summary>
   <div align="center">
