@@ -1,5 +1,4 @@
-### Hi, that is me!
----
+## Hi, that is me!
 
 ##### I am Gabriel Cássio - Student of Electronics which have passion and engagement in the software/programming area.
 
@@ -24,7 +23,7 @@
   </div>
 </div>
 
---- 
+##
     
 <div>
 <details><summary>More Information</summary>
