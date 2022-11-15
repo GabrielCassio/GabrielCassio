@@ -2,10 +2,8 @@
 
 ##### I am Gabriel Cássio - Student of Electronics which have passion and engagement in the software/programming area.
 
-<div>
-  <a href="mailto:gabriel.cgc.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-040061?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-c-3381a1211"><img src="https://img.shields.io/badge/LinkedIn-040061?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-040061?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.cgc.contato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-040061?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcássio)
 
 ##### Learning these Languages and Artificies
     
