@@ -50,7 +50,10 @@
 </details>
 
 ## --- 📱 Socials Midia 📲 ---
+<div width="50%">
+    <a href="https://www.linkedin.com/in/gabrielcássio" target="_blank"><img width="150em" alt="linkeedin-icon" src="assets/linkedin-icon.svg"></a>
+    <a href="mailto:gabriel.cgc.contato@gmail.com"><img width="150em" alt="gmail-icon" src="assets/gmail-icon.svg"></a>
+    <a href="https://www.instagram.com/cassio_cas?igsh=OXA1ZzFrOW52eXJs"><img width="150em" alt="instagram-icon" src="assets/instagram-icon.svg"></a>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-8628c3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.cgc.contato@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-8628c3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcássio)
-[![Instagram](https://img.shields.io/badge/Instagram-8628c3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/cassio_cas?igsh=OXA1ZzFrOW52eXJs)
+
