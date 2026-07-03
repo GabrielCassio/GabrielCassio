@@ -313,7 +313,6 @@
   />
 </div>
 ```
-
 ```aura width=170 height=50 link="mailto:gcgc@cin.ufpe.br" inline align=center
 <div style={{
     display: 'flex', width: 150, height: 50,
