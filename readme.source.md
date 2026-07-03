@@ -295,89 +295,78 @@
 </div>
 ```
 
-
-```aura width=170 height=50 link="https://www.linkedin.com/in/gabrielc%C3%A1ssio/" inline align=center
-<div style={{
-    display: 'flex', width: 150, height: 50,
-    fontFamily:'Inter'
-  }}>
+```aura width=130 height=50 link="https://www.linkedin.com/in/gabrielc%C3%A1ssio/" inline align=center
+<div style={{ display: 'flex', width: 110, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
     icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/linkedin-icn.svg"
     text="Linkedin"
     textColor="#050003"
     backgroundColor="#FA6813"
-    width={150}
+    width={110}
     height={50}
+    fontSize={11}
+    iconSize="22"
     gradientStrokeWidth={0}
-    iconSize="30"
   />
 </div>
 ```
-```aura width=170 height=50 link="mailto:gcgc@cin.ufpe.br" inline align=center
-<div style={{
-    display: 'flex', width: 150, height: 50,
-    fontFamily:'Inter'
-  }}>
+```aura width=100 height=50 link="mailto:gcgc@cin.ufpe.br" inline align=center
+<div style={{ display: 'flex', width: 90, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
     icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/email-icn.svg"
     text="Email"
     textColor="#050003"
     backgroundColor="#FA6813"
-    width={150}
+    width={90}
     height={50}
+    fontSize={11}
+    iconSize="22"
     gradientStrokeWidth={0}
-    iconSize="30"
   />
 </div>
 ```
-```aura width=170 height=50 link="https://cin.ufpe.br/~gcgc/" inline align=center
-<div style={{
-    display: 'flex', width: 150, height: 50,
-    fontFamily:'Inter'
-  }}>
+```aura width=105 height=50 link="https://cin.ufpe.br/~gcgc/" inline align=center
+<div style={{ display: 'flex', width: 95, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
     icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/portal-icn.svg"
     text="Portal"
     textColor="#050003"
     backgroundColor="#FA6813"
-    width={150}
+    width={95}
     height={50}
+    fontSize={11}
+    iconSize="22"
     gradientStrokeWidth={0}
-    iconSize="30"
   />
 </div>
 ```
-```aura width=170 height=50 link="https://oissac.itch.io/" inline align=center
-<div style={{
-    display: 'flex', width: 150, height: 50,
-    fontFamily:'Inter'
-  }}>
+```aura width=110 height=50 link="https://oissac.itch.io/" inline align=center
+<div style={{ display: 'flex', width: 100, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
     icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/itch-icn.svg"
     text="Itch.io"
     textColor="#050003"
     backgroundColor="#FA6813"
-    width={150}
+    width={100}
     height={50}
+    fontSize={11}
+    iconSize="22"
     gradientStrokeWidth={0}
-    iconSize="30"
   />
 </div>
 ```
-```aura width=170 height=50 link="https://www.twitch.tv/oissac_cas" inline align=center
-<div style={{
-    display: 'flex', width: 150, height: 50,
-    fontFamily:'Inter'
-  }}>
+```aura width=125 height=50 link="https://www.twitch.tv/oissac_cas" inline align=center
+<div style={{ display: 'flex', width: 115, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
     icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/twitch-icn.svg"
     text="Twitch.tv"
     textColor="#050003"
     backgroundColor="#FA6813"
-    width={150}
+    width={115}
     height={50}
+    fontSize={11}
+    iconSize="22"
     gradientStrokeWidth={0}
-    iconSize="30"
   />
 </div>
 ```
