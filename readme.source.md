@@ -125,7 +125,7 @@
     <div style={{
       display:'flex', flexDirection:'row', gap:'5px'
     }}>
-      <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/seal-icn.svg" width={30} height={30} style={{ border:'1px solid #FFFFFFF', borderRadius:'100%' }} />
+      <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/seal-icn.svg" width={50} height={50} style={{ border:'1px solid #FFFFFFF', borderRadius:'100%' }} />
     </div>
   </div>
   <p style={{fontWeight:'medium', fontSize:'16px', textAlign: 'justify', textJustify: 'inter-word'}}>
@@ -214,11 +214,11 @@
       }}>
         {stats.map((elem, index) => (
           <div key={index} style={{
-            display:'flex', flexDirection:'column', alignItems:'center',
+            display:'flex', flex:1, flexDirection:'column', alignItems:'center',
             padding:'52px 0px', gap:'22px', fontWeight: 600
           }}>
-            <div style={{ display:'flex', color:'#FD6801', fontSize:'48px' }}>{elem.value}</div>
-            <div style={{ display:'flex', color:'#B4B4B4', fontSize:'14px' }}>{elem.label.toUpperCase()}</div>
+            <div style={{ display:'flex', width:'100%', justifyContent:'center', color:'#FD6801', fontSize:'48px' }}>{elem.value}</div>
+            <div style={{ display:'flex',  width:'100%', justifyContent:'center', color:'#B4B4B4', fontSize:'14px' }}>{elem.label.toUpperCase()}</div>
           </div>
         ))}
       </div>
