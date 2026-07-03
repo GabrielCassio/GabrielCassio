@@ -62,7 +62,7 @@
     width:'160px', height:'160px', backgroundColor:'#FD6801',
     borderRadius:'10px'
   }}>
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/images/mascote.svg" width={150} height={150} style={{ objectFit: 'contain' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/images/mascote.svg" width={150} height={150} style={{ objectFit: 'contain' }} />
   </div>
   <div style={{
     display:'flex', flexDirection:'column',
@@ -99,6 +99,38 @@
       })()}
     </div>
   </div>
+</div>
+```
+
+```aura width=860 height=300
+<div style={{
+  display:'flex', flexDirection:'column',
+  width: '100%', height: '100%',
+  background: '#FFFFFF', color: '#000000',
+  padding:'26px 36px',  
+  borderRadius:'20px',
+  fontFamily:'Inter'
+}}>
+  <div style={{
+    display:'flex', flexDirection:'row', fontWeight:'semi-bold', fontSize:'20px',
+    justifyContent:'space-between', alignItems:'center'
+  }}>
+    <div style={{
+      display:'flex', flexDirection:'row', gap:'10px'
+    }}> 
+      <p>></p>
+      <p> ABOUT ME </p>
+      <p>...</p>
+    </div>
+    <div style={{
+      display:'flex', flexDirection:'row', gap:'5px'
+    }}>
+      <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/seal-icn.svg" width={30} height={30} style={{ border:'1px solid #FFFFFFF', borderRadius:'100%' }} />
+    </div>
+  </div>
+  <p style={{fontWeight:'medium', fontSize:'16px', textAlign: 'justify', textJustify: 'inter-word'}}>
+  Hello, people. My name is Gabriel Cássio, i'm a electronics technician and student at Center of Informatics (Cin - UFPE), engaged in programming. I've liked computers since I was a child and watched movies and animations with a lot of computer graphics, like toy story etc. Encrouged by curiosity I seek to develop projects focused on areas such as Game Development, Web development, Machine Learning and Hardware Design. Because these areas allow me to transmit and impact people's daily lives, whether through entertainment or the comfort of using a quality product.
+  </p>
 </div>
 ```
 
@@ -204,14 +236,14 @@
   <div style={{
     display:'flex', flexDirection:'row', gap:'48px'
   }}>
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/docker-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/typescript-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/go-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/nginx-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/python-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/cpp-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/unity-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/react-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/docker-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/typescript-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/go-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/nginx-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/python-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/cpp-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/unity-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/react-icn.svg" width={30} height={30} style={{ objectFit: 'cover' }} />
   </div>
 </div>
 
@@ -272,7 +304,7 @@
     width:'256px', height:'180px', backgroundColor:'#D9D9D9',
     borderRadius:'20px 0px 0px 20px'
   }}>
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/images/malungo.svg" width={256} height={180} style={{ objectFit:'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/images/malungo.svg" width={256} height={180} style={{ objectFit:'cover' }} />
     <div style={{position:'absolute', width:'100%', height:'100%', background: 'linear-gradient(235deg, rgba(255, 255, 255, 0) 0%, rgba(25, 17, 11, 0.5) 100%)'}}/>
   </div>
   <div style={{
@@ -281,7 +313,7 @@
     width:'256px', height:'180px', backgroundColor:'#D9D9D9',
     margin:'0px 14px'
   }}>
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/images/descin.svg" width={256} height={180} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/images/descin.svg" width={256} height={180} style={{ objectFit: 'cover' }} />
   </div>
   <div style={{
     display:'flex', justifyContent:'center', alignItems:'center',
@@ -289,7 +321,7 @@
     width:'256px', height:'180px', backgroundColor:'#D9D9D9',
     borderRadius:'0px 20px 20px 0px'
   }}>
-    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/images/cadus.svg" width={256} height={180} style={{ objectFit: 'cover' }} />
+    <img src="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/images/cadus.svg" width={256} height={180} style={{ objectFit: 'cover' }} />
     <div style={{position:'absolute', width:'100%', height:'100%', background: 'linear-gradient(45deg,rgba(255, 255, 255, 0) 0%, rgba(25, 17, 11, 0.5) 100%)'}}/>
   </div>
 </div>
@@ -298,7 +330,7 @@
 ```aura width=130 height=50 link="https://www.linkedin.com/in/gabrielc%C3%A1ssio/" inline align=center
 <div style={{ display: 'flex', width: 110, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/linkedin-icn.svg"
+    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/linkedin-icn.svg"
     text="Linkedin"
     textColor="#050003"
     backgroundColor="#FA6813"
@@ -313,7 +345,7 @@
 ```aura width=100 height=50 link="mailto:gcgc@cin.ufpe.br" inline align=center
 <div style={{ display: 'flex', width: 90, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/email-icn.svg"
+    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/email-icn.svg"
     text="Email"
     textColor="#050003"
     backgroundColor="#FA6813"
@@ -328,7 +360,7 @@
 ```aura width=105 height=50 link="https://cin.ufpe.br/~gcgc/" inline align=center
 <div style={{ display: 'flex', width: 95, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/portal-icn.svg"
+    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/portal-icn.svg"
     text="Portal"
     textColor="#050003"
     backgroundColor="#FA6813"
@@ -343,7 +375,7 @@
 ```aura width=110 height=50 link="https://oissac.itch.io/" inline align=center
 <div style={{ display: 'flex', width: 100, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/itch-icn.svg"
+    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/itch-icn.svg"
     text="Itch.io"
     textColor="#050003"
     backgroundColor="#FA6813"
@@ -358,7 +390,7 @@
 ```aura width=125 height=50 link="https://www.twitch.tv/oissac_cas" inline align=center
 <div style={{ display: 'flex', width: 115, height: 50, fontFamily:'Inter' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/feat/readme-aura-profile/.github/assets/icons/twitch-icn.svg"
+    icon="https://raw.githubusercontent.com/GabrielCassio/GabrielCassio/main/.github/assets/icons/twitch-icn.svg"
     text="Twitch.tv"
     textColor="#050003"
     backgroundColor="#FA6813"
