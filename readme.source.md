@@ -299,7 +299,7 @@
 
 ```aura width=170 height=50 link="https://www.linkedin.com/in/gabrielc%C3%A1ssio/" inline align=center
 <div style={{
-    display: 'flex', width: 150, height: 50, marginLeft: '5px', marginRight: '5px',
+    display: 'flex', width: 150, height: 50,
     fontFamily:'Inter'
   }}>
   <SocialMediaButton
@@ -317,7 +317,7 @@
 
 ```aura width=170 height=50 link="mailto:gcgc@cin.ufpe.br" inline align=center
 <div style={{
-    display: 'flex', width: 150, height: 50, marginLeft: '5px', marginRight: '5px',
+    display: 'flex', width: 150, height: 50,
     fontFamily:'Inter'
   }}>
   <SocialMediaButton
@@ -335,7 +335,7 @@
 
 ```aura width=170 height=50 link="https://cin.ufpe.br/~gcgc/" inline align=center
 <div style={{
-    display: 'flex', width: 150, height: 50, marginLeft: '5px', marginRight: '5px',
+    display: 'flex', width: 150, height: 50,
     fontFamily:'Inter'
   }}>
   <SocialMediaButton
@@ -353,7 +353,7 @@
 
 ```aura width=170 height=50 link="https://oissac.itch.io/" inline align=center
 <div style={{
-    display: 'flex', width: 150, height: 50, marginLeft: '5px', marginRight: '5px',
+    display: 'flex', width: 150, height: 50,
     fontFamily:'Inter'
   }}>
   <SocialMediaButton
@@ -371,7 +371,7 @@
 
 ```aura width=170 height=50 link="https://www.twitch.tv/oissac_cas" inline align=center
 <div style={{
-    display: 'flex', width: 150, height: 50, marginLeft: '5px', marginRight: '5px',
+    display: 'flex', width: 150, height: 50,
     fontFamily:'Inter'
   }}>
   <SocialMediaButton
