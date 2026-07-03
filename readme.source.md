@@ -293,7 +293,6 @@
     <div style={{position:'absolute', width:'100%', height:'100%', background: 'linear-gradient(45deg,rgba(255, 255, 255, 0) 0%, rgba(25, 17, 11, 0.5) 100%)'}}/>
   </div>
 </div>
-
 ```
 
 
@@ -332,7 +331,6 @@
   />
 </div>
 ```
-
 ```aura width=170 height=50 link="https://cin.ufpe.br/~gcgc/" inline align=center
 <div style={{
     display: 'flex', width: 150, height: 50,
@@ -350,7 +348,6 @@
   />
 </div>
 ```
-
 ```aura width=170 height=50 link="https://oissac.itch.io/" inline align=center
 <div style={{
     display: 'flex', width: 150, height: 50,
@@ -368,7 +365,6 @@
   />
 </div>
 ```
-
 ```aura width=170 height=50 link="https://www.twitch.tv/oissac_cas" inline align=center
 <div style={{
     display: 'flex', width: 150, height: 50,
